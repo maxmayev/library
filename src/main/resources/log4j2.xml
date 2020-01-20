@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Properties>
+        <Property name="LOG_PATTERN">%c{2} %d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</Property>
+        <Property name="APP_LOG_ROOT">c:\logs</Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%c{2} %d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <File name = "MyLogFile" fileName="${APP_LOG_ROOT}\app-%d{yyyy-MM-dd}.log"  immediateFlush ="true" append = "true"  >
+            <PatternLayout pattern="${LOG_PATTERN}" />
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref = "MyLogFile" />
+        </Root>
+        <Logger name = "com.gmail.max.server.dao.LibraryDAOImpl">
+            <AppenderRef ref = "MyLogFile" />
+        </Logger>
+    </Loggers>
+</Configuration>

@@ -1,0 +1,12 @@
+syntax:glob
+.idea
+*.orig
+*.iml
+*.log
+out.log
+out
+JavaRushPlugin.properties
+syntax: glob
+
+# Project exclude paths
+target/

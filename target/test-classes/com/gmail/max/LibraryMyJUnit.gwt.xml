@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="LibraryMy">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.gmail.max.LibraryMy' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/LibraryMy/libraryMy" class="com.gmail.max.server.controller.LibraryControllerImpl" />
+
+</module>

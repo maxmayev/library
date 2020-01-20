@@ -1,0 +1,16 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+    <g:HTMLPanel>
+        <H1>Таблица книг</H1>
+
+            <g:HorizontalPanel ui:field="horizontalPanel">
+                <g:FlexTable ui:field="bookTable"/>
+                <g:VerticalPanel ui:field="verticalPanel">
+                    <g:Button ui:field="showBooks"/>
+                    <g:Button ui:field="addBooks"/>
+                </g:VerticalPanel>
+            </g:HorizontalPanel>
+
+    </g:HTMLPanel>
+
+</ui:UiBinder>

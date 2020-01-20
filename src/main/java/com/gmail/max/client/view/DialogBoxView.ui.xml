@@ -1,0 +1,19 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'
+             xmlns:d='urn:import:com.google.gwt.user.datepicker.client'
+            xmlns:m='urn:import:com.gmail.max.client.view'>
+    <g:HTMLPanel visible="false">
+        <g:DialogBox ui:field="addDialog">
+            <g:HTMLPanel>
+                <g:VerticalPanel>
+                    <g:TextBox ui:field="titleTextBox" title="Title" text="Title"/>
+                    <g:TextBox ui:field="authorTextBox" text="Author"/>
+                        <g:TextBox ui:field="dateTextBox" text="Date"/>
+                        <m:DatePickerPopupPanelView ui:field="datePicker" visible="false"/>
+                    <g:Button ui:field="addDialogButton" text="Add" focus="true"/>
+                </g:VerticalPanel>
+            </g:HTMLPanel>
+        </g:DialogBox>
+    </g:HTMLPanel>
+
+</ui:UiBinder>

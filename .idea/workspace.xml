@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eedadc6-b95e-456c-8218-13737f55be60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/max/client/GwtTestLibraryMy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/max/client/GwtTestLibraryMy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="library: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="library: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="book: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q9MJsqygxetxfIcr1zgaje1laO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="GwtCreateUiBinderDialog.RecentRootElementType">
+      <recent name="com.google.gwt.user.client.ui.HTMLPanel" />
+      <recent name="com.google.gwt.dom.client.DivElement" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\IntellijIdeaProjects\library\src\main\resources" />
+      <recent name="C:\Users\Max\IntellijIdeaProjects\library" />
+      <recent name="C:\Users\Max\IntellijIdeaProjects\library\src\main\java\com\gmail\max\server\dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="GWT.ConfigurationType" factoryName="GWT Configuration" nameIsGenerated="true">
+      <option name="RUN_PAGE" value="LibraryMy.html" />
+      <option name="USE_SUPER_DEV_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_241" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <module name="LibraryMy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <option name="RUN_PAGE" value="LibraryMy.html" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <module name="LibraryMy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6737a0aa" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eedadc6-b95e-456c-8218-13737f55be60" name="Default Changelist" comment="" />
+      <created>1567178289278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567178289278</updated>
+      <workItem from="1567178291974" duration="1074000" />
+      <workItem from="1567179963477" duration="37000" />
+      <workItem from="1567187020885" duration="669000" />
+      <workItem from="1567241658959" duration="10690000" />
+      <workItem from="1567338164025" duration="807000" />
+      <workItem from="1567344410467" duration="1243000" />
+      <workItem from="1567346263007" duration="9373000" />
+      <workItem from="1567408116392" duration="84000" />
+      <workItem from="1567408412384" duration="11000" />
+      <workItem from="1567408482916" duration="55000" />
+      <workItem from="1567452789622" duration="283000" />
+      <workItem from="1567461844499" duration="84000" />
+      <workItem from="1567631476465" duration="609000" />
+      <workItem from="1567684018888" duration="9500000" />
+      <workItem from="1567693539034" duration="3248000" />
+      <workItem from="1567697029602" duration="25000" />
+      <workItem from="1567843944816" duration="715000" />
+      <workItem from="1567847000290" duration="994000" />
+      <workItem from="1567973484708" duration="128000" />
+      <workItem from="1568220009380" duration="252000" />
+      <workItem from="1568279595052" duration="578000" />
+      <workItem from="1568280186458" duration="322000" />
+      <workItem from="1568383234605" duration="9557000" />
+      <workItem from="1568453604901" duration="2592000" />
+      <workItem from="1572792377850" duration="16000" />
+      <workItem from="1579533547693" duration="1047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579533650099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579533650099" />
+    <state x="1130" y="591" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579533558303">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1130" y="591" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579533558303" />
+    <state x="1061" y="443" key="FileChooserDialogImpl" timestamp="1579533647499">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="443" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1579533647499" />
+    <state width="2517" height="319" key="GridCell.Tab.0.bottom" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.0.center" timestamp="1579534553270">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553270" />
+    <state width="2517" height="319" key="GridCell.Tab.0.left" timestamp="1579534553270">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553270" />
+    <state width="2517" height="319" key="GridCell.Tab.0.right" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.1.bottom" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.1.center" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.1.left" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.1.right" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.2.bottom" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.2.center" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.2.left" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state width="2517" height="319" key="GridCell.Tab.2.right" timestamp="1579534553271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579534553271" />
+    <state x="861" y="357" key="com.intellij.database.dbimport.ImportDialog" timestamp="1579534029607">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="861" y="357" key="com.intellij.database.dbimport.ImportDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579534029607" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gmail/max/server/dao/LibraryDAOImpl.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+</project>
